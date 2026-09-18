@@ -1,0 +1,11 @@
+⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use 0.0.0.0:4173
+    at <unknown> (Error: listen EADDRINUSE: address already in use 0.0.0.0: GET / 200 in 1838ms (next.js: 1734ms, application-code: 104ms)
+ GET / 200 in 48ms (next.js: 7ms, application-code: 42ms)
+ GET / 200 in 45ms (next.js: 4ms, application-code: 41ms)
+ GET / 200 in 22ms (next.js: 2ms, application-code: 20ms)
+ GET / 200 in 70ms (next.js: 3ms, application-code: 67ms)
+ HEAD / 200 in 30ms (next.js: 2ms, application-code: 28ms)
+ GET /?_r=3_0 200 in 31ms (next.js: 5ms, application-code: 25ms)
+ GET /?_r=3_0 200 in 25ms (next.js: 1.9ms, application-code: 23ms)
+ GET /?_r=3_0 200 in 31ms (next.js: 3ms, application-code: 28ms)
